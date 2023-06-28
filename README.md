@@ -23,22 +23,22 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
                                                                          \__|
 -->
 <h1 align="center">
-  Deficiente Podtudo <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
+  Podcast <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
 </h1>
 
 <br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1122942810270732408/Screenshot_1.png" alt="Resultado final do projeto">
+  <img src="https://cdn.discordapp.com/attachments/1104528686214029374/1123427449888309330/image.png" alt="Resultado final do projeto">
 </div>
 
 <br>
 
 ## 📝 Descrição 
 
-Site feito para o canal do youtube chamado "Deficiente Podtudo"
+Site personalizado para um Podcast.
 
-- Preview: [https://deficientepodtudo.vercel.app/](https://deficientepodtudo.vercel.app/)
+- Preview: [https://podcastsell.vercel.app/](https://podcastsell.vercel.app/)
 
 ## 🚀 Linguagens
 
