@@ -29,7 +29,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 <br>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1104525551898734632/1122942810270732408/Screenshot_1.png" alt="Resultado final do projeto">
+  <img src="https://cdn.discordapp.com/attachments/1104528686214029374/1123427449888309330/image.png" alt="Resultado final do projeto">
 </div>
 
 <br>
@@ -38,7 +38,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 
 Site feito para o canal do youtube chamado "Deficiente Podtudo"
 
-- Preview: [https://deficientepodtudo.vercel.app/](https://deficientepodtudo.vercel.app/)
+- Preview: [https://podcastsell.vercel.app/](https://podcastsell.vercel.app/)
 
 ## 🚀 Linguagens
 
