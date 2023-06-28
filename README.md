@@ -23,7 +23,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
                                                                          \__|
 -->
 <h1 align="center">
-  Deficiente Podtudo <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
+  Podcast <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
 </h1>
 
 <br>
@@ -36,7 +36,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 
 ## 📝 Descrição 
 
-Site feito para o canal do youtube chamado "Deficiente Podtudo"
+Site personalizado para um Podcast.
 
 - Preview: [https://podcastsell.vercel.app/](https://podcastsell.vercel.app/)
 
