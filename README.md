@@ -36,7 +36,7 @@ $$$$$$$$\\$$$$$$  |\$$$$$$$\\$$$$$$$ |$$$$$$$  |      $$$$$$$$\\$$$$$$  |$$$$$$$
 
 ## 📝 Descrição 
 
-Site personalizado para um Podcast.
+Descubra um projeto web inovador dedicado aos amantes de podcasts. Explore episódios cativantes, mergulhe em discussões instigantes e mergulhe em uma experiência auditiva imersiva. O melhor do mundo do podcasting ao seu alcance.
 
 - Preview: [https://podcastsell.vercel.app/](https://podcastsell.vercel.app/)
 
